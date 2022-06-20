@@ -3,6 +3,10 @@
 
 Implementation of a CVAE in PyTorch as described by the paper 'Auto-Encoding Variational Bayes' (Gaussian case with L = 1)
 
-**Results**:
+# Results
 
 After 32 training epochs,
+
+![image](/images/latent_space.png)
+
+![image](/images/manifold.png)
