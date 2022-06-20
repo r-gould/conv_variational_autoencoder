@@ -9,7 +9,6 @@ After 32 training epochs on MNIST dataset,
 
 **Latent space visualization:**
 
-![image](/images/latent_space.png)
 
 **MNIST manifold:**
 
