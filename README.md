@@ -5,6 +5,12 @@ Implementation of a CVAE in PyTorch as described by the paper 'Auto-Encoding Var
 
 # Results
 
-After 32 training epochs,
+After 32 training epochs on MNIST dataset,
 
+**Latent space visualization:**
 
+![image](/images/latent_space.png)
+
+**MNIST manifold:**
+
+![image](/images/manifold.png)
