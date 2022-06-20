@@ -7,6 +7,4 @@ Implementation of a CVAE in PyTorch as described by the paper 'Auto-Encoding Var
 
 After 32 training epochs,
 
-![image](/images/latent_space.png)
 
-![image](/images/manifold.png)
